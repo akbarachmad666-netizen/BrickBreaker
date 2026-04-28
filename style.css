@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-family: Arial;
+  background: #0f172a;
+  color: white;
+}
+
+canvas {
+  background: black;
+  border: 3px solid #334155;
+  margin-top: 15px;
+}
+
+.controls {
+  margin: 10px;
+}
+
+button, select {
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
